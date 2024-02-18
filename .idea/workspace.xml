@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe2dcffa-ccf2-41d2-9299-a200fc96f629" name="Changes" comment="sample">
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_Feb2024/Lab053.py" afterDir="false" />
+    <list default="true" id="fe2dcffa-ccf2-41d2-9299-a200fc96f629" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Feb2024/Lab066.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +119,19 @@
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
     "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
     "Python.Lab37.executor": "Run",
     "Python.Printfunc.executor": "Run",
     "Python.main.executor": "Run",
@@ -131,8 +143,13 @@
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab053">
-    <configuration name="Lab049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Deepika\PycharmProjects\PyLearning2x\14_Feb2024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab066">
+    <configuration name="Lab062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Feb2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Feb2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Feb2024/Lab049.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Feb2024/Lab062.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Feb2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Feb2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Feb2024/Lab050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Feb2024/Lab063.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Feb2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Feb2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Feb2024/Lab051.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Feb2024/Lab064.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Feb2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Feb2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Feb2024/Lab052.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Feb2024/Lab065.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Feb2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Feb2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Feb2024/Lab053.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Feb2024/Lab066.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab053" />
-        <item itemvalue="Python.Lab052" />
-        <item itemvalue="Python.Lab051" />
-        <item itemvalue="Python.Lab050" />
-        <item itemvalue="Python.Lab049" />
+        <item itemvalue="Python.Lab066" />
+        <item itemvalue="Python.Lab065" />
+        <item itemvalue="Python.Lab064" />
+        <item itemvalue="Python.Lab063" />
+        <item itemvalue="Python.Lab062" />
       </list>
     </recent_temporary>
   </component>
